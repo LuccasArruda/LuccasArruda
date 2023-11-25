@@ -3,7 +3,13 @@
 ## 🖥️ Code
 [![LuccasArruda GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccasArruda&show_icons=true&bg_color=00000000)](https://github.com/LuccasArruda/github-readme-stats)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&show_icons=true&bg_color=00000000)
-
+### Ferramentas e Linguagnes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="80" height="80" >  <img width="80" height="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="80" height="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="80" height="80"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80" height="80">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80"/>
+          
+          
+          
+          
+          
 ## 👨‍💻 Sobre Mim
 :computer: **Analista de Programação Trainee** - [Soma Soluções em T.I.](https://github.com/org-somasolucoes)
 
