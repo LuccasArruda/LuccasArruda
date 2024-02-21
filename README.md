@@ -1,9 +1,12 @@
 # Olá! Seja bem vindo ao meu perfil!
 
 ## 🖥️ Code
-[![LuccasArruda GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccasArruda&show_icons=true&bg_color=00000000)](https://github.com/LuccasArruda/github-readme-stats)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasArruda&layout=compact&show_icons=true&bg_color=00000000)
-### Ferramentas e Linguagnes
+<div>
+          <img loading="lazy" height=200 src="https://github-readme-stats.vercel.app/api?username=LuccasArruda&show_icons=true&bg_color=00000000">
+          <img loading="lazy" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasArruda&layout=compact&show_icons=true&bg_color=00000000">
+</div>
+
+### Ferramentas e Linguagens
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" >  <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
           
           
