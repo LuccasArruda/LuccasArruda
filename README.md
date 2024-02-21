@@ -2,8 +2,8 @@
 
 ## 🖥️ Code
 <div>
-          <img loading="lazy" height=200 src="https://github-readme-stats.vercel.app/api?username=LuccasArruda&show_icons=true&bg_color=00000000">
-          <img loading="lazy" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasArruda&layout=compact&show_icons=true&bg_color=00000000">
+          <img loading="lazy" height=180em src="https://github-readme-stats.vercel.app/api?username=LuccasArruda&show_icons=true&bg_color=00000000">
+          <img loading="lazy" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasArruda&layout=compact&show_icons=true&bg_color=00000000">
 </div>
 
 ### Ferramentas e Linguagens
