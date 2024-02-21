@@ -14,7 +14,7 @@
           
           
 ## 👨‍💻 Sobre Mim
-:computer: **Analista de Programação Trainee** - [Soma Soluções em T.I.](https://github.com/org-somasolucoes)
+:computer: **Desenvolvedor Júnior** - [Soma Soluções em T.I.](https://github.com/org-somasolucoes)
 
 :house_with_garden: Moro no Brasil.
 
