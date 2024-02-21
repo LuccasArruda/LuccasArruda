@@ -12,7 +12,7 @@ on:
   push:
     branches:
     - master
-    - pallete [github-dark]
+    - pallete [github-light]
   
 
 jobs:
