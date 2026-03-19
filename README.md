@@ -1,41 +1,63 @@
-# Olá! Seja bem vindo ao meu perfil!
+# Olá, eu sou o Luccas Arruda! 👋
 
-## 🖥️ Code
-<div>
-          <img loading="lazy" height=180em src="https://github-readme-stats.vercel.app/api?username=LuccasArruda&show_icons=true&bg_color=00000000">
-          <img loading="lazy" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasArruda&layout=compact&show_icons=true&bg_color=00000000">
-</div>
+### Desenvolvedor Delphi Pleno | Especialista em Desktop & Git Workflow
+
+Sou um desenvolvedor apaixonado por criar soluções robustas para desktop, com foco em alta performance, código limpo e experiências de usuário modernas. Atualmente, moro em **Araras - SP** e atuo há **3 anos** no ecossistema de desenvolvimento de software.
+
+---
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccasArruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasArruda&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ![Snake animation](https://github.com/LuccasArruda/LuccasArruda/blob/output/snake.svg)
+---
 
-### Ferramentas e Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" >  <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://hermes.dio.me/articles/cover/7b89fda2-4af3-4ae0-98bc-ad2b65854909.png" height="50"/>
-          
-          
-          
-          
-          
-## 👨‍💻 Sobre Mim
-:computer: **Desenvolvedor Júnior** - [Soma Soluções em T.I.](https://github.com/org-somasolucoes)
+### 🚀 Sobre Mim
 
-:house_with_garden: Moro no Brasil.
+* 🔭 Atualmente focado em **desenvolvimento Delphi**, transformando formulários legados em interfaces modernas e intuitivas.
+* 🧠 Grande entusiasta de **Orientação a Objetos** e Padrões de Projeto (como o *Template Method*).
+* ⚖️ Defensor de um histórico de Git impecável: **Rebase** e **Conventional Commits** são parte do meu DNA.
+* 🛠️ Experiência prática com **CI/CD para Desktop**, automatizando desde o versionamento até a geração de instaladores.
 
-:books: Meu foco por aqui é aprender mais sobre Programação Orientada a Objetos
+---
 
-**🎮 Top 5 Melhores Jogos**
+### 🛠️ Tecnologias e Ferramentas
 
-- Borderlands 2
-- Borderlands 3
-- Wonderlands
-- Red Dead Redemption 2
-- [Battlefield 3](https://battlelog.battlefield.com/bf3/soldier/XxL3M4OxX/stats/388852596/xbox360/)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Delphi (VCL), Python, PHP |
+| **Web (Acadêmico)** | CodeIgniter, Bootstrap |
+| **DevOps & CI/CD** | GitHub Actions, Inno Setup, SemVer, CalVer |
+| **Versionamento** | Git (Rebase Iterativo, Workflows Avançados, Linear History) |
+| **UX/UI** | Prototipação e Modernização de UI em Delphi |
+|**Banco de Dados**| Oracle (Modelagem de Tabelas, Jobs, Packages, Functions e Procedures)|
 
-_🪨 Nois é do Rock_
+---
 
-_🛡️ SEMPER FIDELIS_
+### 💎 Diferenciais Técnicos
 
-## ➕ Redes Sociais
+#### **Problem Solver & Automação**
+* **Identificação de Ineficiências:** Possuo um olhar crítico para processos manuais e repetitivos, buscando sempre transformá-los em fluxos automatizados.
+* **Criação de Ferramentas:** Desenvolvo utilitários e scripts para solucionar problemas específicos e otimizar o dia a dia, tornando tarefas complexas mais simples e seguras.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK_LINKEDIN](https://www.linkedin.com/in/luccas-arruda-397373245/)https://www.linkedin.com/in/luccas-arruda-397373245/)](https://www.linkedin.com/in/luccas-arruda-397373245/)
-[![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=Xbox)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=8Xj8AC7fTjd8deBqaIdENdHrm5rFXeLp-MVqKp_p1KbT_CJ153C5F2CN9ClIhNUbQIrXiZJZ4_p9drz0aVNDQl48spM1&wa=wsignin1.0)
+#### **Git & Workflow**
+Não apenas dou "push". Prezo por um histórico de commits semântico e organizado. Domino:
+* **Git Rebase & Rebase Iterativo:** Para manter uma timeline limpa e lógica.
+* **Conflict Resolution:** Habilidade em resolver conflitos complexos sem perder a integridade do código.
+* **Git Flow:** Gerenciamento eficiente de branches e releases.
+
+#### **Qualidade de Código & UX**
+Acredito que software desktop não precisa ter cara de "antigo". Utilizo conceitos de UX para criar formulários que priorizam a fluidez do usuário, aplicando padrões de projeto para garantir que o código seja tão bonito quanto a interface.
+
+---
+
+### 📫 Conecte-se comigo
+
+[![Linkedin Badge](https://img.shields.io/badge/-Luccas%20Arruda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-arruda-397373245)](https://www.linkedin.com/in/luccas-arruda-397373245)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:seu-email@outlook.com)](mailto:seu-luccasarruda@hotmail.com.br)
+
+---
+> "A única maneira de fazer um excelente trabalho é amar o que você faz." – **Steve Jobs**
