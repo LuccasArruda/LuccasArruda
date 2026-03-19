@@ -56,7 +56,7 @@ Acredito que software desktop não precisa ter cara de "antigo". Utilizo conceit
 
 ### 📫 Conecte-se comigo
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luccas%20Arruda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-arruda-397373245)](https://www.linkedin.com/in/luccas-arruda-397373245)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-arruda-397373245)](https://www.linkedin.com/in/luccas-arruda-397373245)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:seu-email@outlook.com)](mailto:seu-luccasarruda@hotmail.com.br)
 
 ---
