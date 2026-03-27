@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Delphi Pleno | Especialista em Desktop & Git Workflow
 
-Sou um desenvolvedor apaixonado por criar soluções robustas para desktop, com foco em alta performance, código limpo e experiências de usuário modernas. Atualmente, moro em **Araras - SP** e atuo há **3 anos** no ecossistema de desenvolvimento de software.
+Sou um desenvolvedor apaixonado por criar soluções robustas para desktop, com foco em alta performance, código limpo e experiências de usuário modernas. Atualmente, moro em **Araras - SP** e atuo desde 2023 no ecossistema de desenvolvimento de software.
 
 ---
 ### 📊 Estatísticas do GitHub
